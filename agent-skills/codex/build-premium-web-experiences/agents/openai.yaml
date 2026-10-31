@@ -1,0 +1,4 @@
+interface:
+  display_name: "Premium Web Experiences"
+  short_description: "Build crisp websites with purposeful motion"
+  default_prompt: "Use $build-premium-web-experiences to design and implement a responsive, visually distinctive website with refined animations, a working user journey, and browser-tested quality."
